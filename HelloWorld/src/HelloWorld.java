@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("This is the edited version");
 		System.out.println("this is the edited version");
+		System.out.println("this is new version");
 	}
 }
